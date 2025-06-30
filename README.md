@@ -43,7 +43,7 @@ Key topics:
 ### ![image](https://github.com/user-attachments/assets/3c385c0e-6a86-4500-b089-0d58baa40cf3) Reflection
 
 #### What I Gained  
-This course provided a comprehensive introduction to how information systems are used in business operations. I explored different types of systems (TPS, MIS, DSS, ESS), their roles in supporting daily tasks and strategic decisions, and the key components that make up an information system including hardware, software, data, procedures, and people. Tools like Data Flow Diagrams (DFDs) and Entity-Relationship Diagrams (ERDs) helped me understand system design and documentation in a structured way. Overall, the course enhanced my analytical thinking and gave me a clearer understanding of how technology aligns with business needs
+This course provided a comprehensive introduction to how information systems are used in business operations. I explored different types of systems (TPS, MIS, DSS, ESS), their roles in supporting daily tasks and strategic decisions, and the key components that make up an information system including hardware, software, data, procedures, and people.  Overall, the course enhanced my analytical thinking and gave me a clearer understanding of how technology aligns with business needs
 SECP1513 also encouraged me to think about the **ethical aspects of technology** where an area often overlooked. It made me realize that information systems are not just technical tools, but part of a broader ecosystem involving people, processes, and responsibilities. This course has been a valuable starting point for my future studies in IT, and I feel more confident navigating topics related to system development and digital business environments.
 
 
